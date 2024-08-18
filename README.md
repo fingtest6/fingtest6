@@ -5,9 +5,9 @@
 
 I don't know what to write.
 
-我的朋友[cjhcjh6](github.com/cjhcjh6)
+我的朋友[cjhcjh6](https://github.com/cjhcjh6)
 
-My friend [cjhcjh6](github.com/cjhcjh6)
+My friend [cjhcjh6](https://github.com/cjhcjh6)
 
 这是我的[博客](hexo.cjhcjh6.top)
 
