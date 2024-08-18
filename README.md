@@ -1,16 +1,13 @@
-## Hi there 👋
+## 你好啊,我是什亭之人
+## Hello, I am Fingtest6.
 
-<!--
-**fingtest6/fingtest6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 我不知道写一些什么
 
-Here are some ideas to get you started:
+I don't know what to write.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我的朋友[cjhcjh6](github.com/cjhcjh6)
+
+My friend [cjhcjh6](github.com/cjhcjh6)
+
+这是我的[博客](hexo.cjhcjh6.top)
+
