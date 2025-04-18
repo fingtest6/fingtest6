@@ -5,6 +5,8 @@
 
 I don't know what to write.
 
+我喜欢编程,还在学习中,也是一个学生
+
 我的朋友[cjhcjh6](https://github.com/cjhcjh6)
 
 My friend [cjhcjh6](https://github.com/cjhcjh6)
